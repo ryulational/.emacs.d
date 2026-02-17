@@ -1,0 +1,17 @@
+.cache/
+.backups/
+elpa/
+auto-save-list/
+backups/
+transient/
+.lsp-session-v1
+custom.el
+tabsession.el
+.dap-breakpoints
+url/
+org-roam.db
+eln-cache/
+elpaca/
+tree-sitter/
+.org-id-locations
+bookmarks
