@@ -56,6 +56,9 @@
 
 (setq require-final-newline t)
 
+(when (member "Liberation Mono" (font-family-list))
+  (set-frame-font "Liberation Mono" t t))
+
 (use-package editorconfig
   :ensure t
   :config
